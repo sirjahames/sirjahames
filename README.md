@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my profile :) 
+
+My name is Jamie, and I am passionate about computer science, focusing on full-stack development and systems programming. Currently, I am diving deep into both front-end and back-end web development, as well as exploring low-level programming with C and C++.
 
 <!--
 **sirjahames/sirjahames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
